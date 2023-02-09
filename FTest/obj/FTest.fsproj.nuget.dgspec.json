@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aylin\\OneDrive\\Documentos\\Ingeniería de Software II\\FTest\\FTest\\FTest.fsproj": {}
+    "C:\\Users\\aylin\\OneDrive\\Documentos\\Noveno ciclo 2023\\Ingeniería de Software II\\Visual Studio\\FTest\\FTest\\FTest.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\aylin\\OneDrive\\Documentos\\Ingeniería de Software II\\FTest\\FTest\\FTest.fsproj": {
+    "C:\\Users\\aylin\\OneDrive\\Documentos\\Noveno ciclo 2023\\Ingeniería de Software II\\Visual Studio\\FTest\\FTest\\FTest.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aylin\\OneDrive\\Documentos\\Ingeniería de Software II\\FTest\\FTest\\FTest.fsproj",
+        "projectUniqueName": "C:\\Users\\aylin\\OneDrive\\Documentos\\Noveno ciclo 2023\\Ingeniería de Software II\\Visual Studio\\FTest\\FTest\\FTest.fsproj",
         "projectName": "FTest",
-        "projectPath": "C:\\Users\\aylin\\OneDrive\\Documentos\\Ingeniería de Software II\\FTest\\FTest\\FTest.fsproj",
+        "projectPath": "C:\\Users\\aylin\\OneDrive\\Documentos\\Noveno ciclo 2023\\Ingeniería de Software II\\Visual Studio\\FTest\\FTest\\FTest.fsproj",
         "packagesPath": "C:\\Users\\aylin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aylin\\OneDrive\\Documentos\\Ingeniería de Software II\\FTest\\FTest\\obj\\",
+        "outputPath": "C:\\Users\\aylin\\OneDrive\\Documentos\\Noveno ciclo 2023\\Ingeniería de Software II\\Visual Studio\\FTest\\FTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aylin\\AppData\\Roaming\\NuGet\\NuGet.Config",

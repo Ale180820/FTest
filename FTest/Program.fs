@@ -21,7 +21,7 @@ module Program =
     let main args =
         let square = Func<_,_>(fun num ->  num * num)
         let double = Func<_,_>(fun num ->  num * 2)
-        let sum = Func<_,_>(fun (num1,num2) ->  num1 * num2)
+        let sum = Func<_,_,_>(fun num1 num2 ->  num1 + num2)
         let builder = WebApplication.CreateBuilder(args)
 
         builder.Services.AddControllers()

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+sTrx6YxMWN5MKEvdzSbtym9q1nMmC2eNwGg2kSdFLJIp5W9UM/NvCouE38WyhPQ+H1nl/BcG/Eu6I+K03T1KQ==",
+  "dgSpecHash": "emwUDnrlGLHOLOkz9zES1MkdpvJaFaFoMCIKMOmY50xBn73YrZ8XH4yg4WjS5u7N/pG+3E6n3qpqsOnHrwWTnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aylin\\OneDrive\\Documentos\\Ingeniería de Software II\\FTest\\FTest\\FTest.fsproj",
+  "projectFilePath": "C:\\Users\\aylin\\OneDrive\\Documentos\\Noveno ciclo 2023\\Ingeniería de Software II\\Visual Studio\\FTest\\FTest\\FTest.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\aylin\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
   ],
